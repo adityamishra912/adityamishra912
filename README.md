@@ -34,8 +34,8 @@
 
 <br>
 
-🎓 B.Tech CSE @ LNCT, Bhopal
-🤖 Exploring LLMs, RAG & Agentic AI  
+🎓 B.Tech CSE @ LNCT, Bhopal <br>
+🤖 Exploring LLMs, RAG & Agentic AI  <br>
 🛠️ Building full-stack applications and systems
 
 <br>
