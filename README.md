@@ -36,49 +36,9 @@
 
 <br>
 
-<p align="center">
-  <em>I learn by building, experimenting, and solving problems.</em>
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 Developer
-
-I enjoy turning ideas into working applications and systems, from the frontend all the way to backend services, databases and deployment.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering
-
-I'm exploring how LLMs, RAG and agentic systems can be integrated into real software rather than treated as isolated experiments.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Problem Solver
-
-I enjoy understanding how things work, experimenting with different approaches and building solutions from the ground up.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 Always Learning
-
-Technologies change. My goal is to keep learning the fundamentals, adapting to new tools and building better systems.
-
-</td>
-</tr>
-</table>
+🎓 B.Tech CSE @ LNCT, Bhopal
+🤖 Exploring LLMs, RAG & Agentic AI  
+🛠️ Building full-stack applications and systems
 
 <br>
 
@@ -158,6 +118,10 @@ Research, prototypes and technical projects
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" />
 </p>
 
+<p align="center">
+  <strong>React · Next.js · Tailwind CSS</strong>
+</p>
+
 <br>
 
 <h3 align="center">Backend</h3>
@@ -219,19 +183,19 @@ Research, prototypes and technical projects
 <p align="center">
 
 <a href="https://www.linkedin.com/in/adityamishra912">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/adityamishra912">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/adityamishra0912/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="mailto:aditya.mishra0989@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://huggingface.co/adityamishra912">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 
 </p>
@@ -249,16 +213,12 @@ Research, prototypes and technical projects
 <p align="center">
 
 🤖 <strong>LLM Application Development</strong>
-&nbsp;&nbsp; • &nbsp;&nbsp;
 
 🔎 <strong>RAG & Retrieval Systems</strong>
-&nbsp;&nbsp; • &nbsp;&nbsp;
 
 🧠 <strong>Agentic AI</strong>
-&nbsp;&nbsp; • &nbsp;&nbsp;
 
 🔗 <strong>Multi-Agent Systems</strong>
-&nbsp;&nbsp; • &nbsp;&nbsp;
 
 🏗️ <strong>System Design</strong>
 
@@ -266,6 +226,3 @@ Research, prototypes and technical projects
 
 <br>
 
-<p align="center">
-  <em>Build. Learn. Experiment. Repeat.</em>
-</p>
