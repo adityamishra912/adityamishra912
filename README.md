@@ -4,8 +4,6 @@
   <img src="./assets/banner.png" width="100%" alt="Aditya Mishra - Software Developer">
 </p>
 
-<br>
-
 <!-- ======================= NAME ======================= -->
 
 <h1 align="center">Aditya Mishra</h1>
